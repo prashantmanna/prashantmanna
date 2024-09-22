@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prashant Dilip Manna</h1>
 <h3 align="center">Aspiring Software Developer on Android and Web</h3>
 
-<img align="right" alt="coding" width="400" src="C:\Users\manpr\Downloads\mangif.gif"/>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashantmanna&label=Profile%20views&color=0e75b6&style=flat" alt="prashantmanna" /> </p>
 
 - 🔭 I’m currently working on [Expense Tracker App](https://github.com/prashantmanna/expense_tracker_app)
