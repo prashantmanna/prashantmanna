@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [Expense Tracker App](https://github.com/prashantmanna/expense_tracker_app)
 
-- 🌱 I’m currently learning **Flutter, Kotlin, Jetpack Compose, React JS, NextJS**
+- 🌱 I’m currently learning **Flutter**, **Kotlin**, **Jetpack Compose**, [React JS](https://reactjs.org/), **NextJS**
 
 - 👨‍💻 All of my projects are available at [https://prashantmanna.netlify.app/](https://prashantmanna.netlify.app/)
 
-- 💬 Ask me about **React JS, Flutter, Kotlin, Java**
+- 💬 Ask me about **React JS**, **Flutter**, **Kotlin**, [Java](https://www.java.com)
 
 - 📫 How to reach me **manprashant99@gmail.com**
 
